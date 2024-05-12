@@ -1,5 +1,5 @@
 # PenguinBoxGame
-A game with precise penguin and some awesome boxes.
+A game with a cute penguin and some awesome boxes.
 
 ## Instructions
 
